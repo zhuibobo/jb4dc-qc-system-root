@@ -9,7 +9,6 @@
             </column>
             <column name="PROJECT_VALUE" type="NVARCHAR(20)" remarks="序号" />
             <column name="PROJECT_NAME" type="NVARCHAR(200)" remarks="项目名称" />
-            <column name="PROJECT_DESC" type="CLOB" remarks="内容详情" />
             <column name="PROJECT_CREATOR_NAME" type="NVARCHAR(50)" remarks="录入人姓名" />
             <column name="PROJECT_CREATOR_ID" type="NVARCHAR(50)" remarks="录入人ID" />
             <column name="PROJECT_CREATOR_DATE" type="datetime(6)" remarks="录入时间" />
